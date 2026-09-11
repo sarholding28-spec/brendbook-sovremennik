@@ -1,0 +1,55 @@
+{
+  "brand": "ЖК Современник",
+  "repository": "https://github.com/sarholding28-spec/brendbook-sovremennik",
+  "presentation_style": {
+    "font_primary": "TT Norms Medium",
+    "colors": {
+      "purple_primary": "#4A4492",
+      "purple_light": "#9D97CA",
+      "turquoise": "#44BABC",
+      "blue": "#49C1F0",
+      "white": "#FFFFFF"
+    },
+    "layout": {
+      "text_share_percent": "25-35",
+      "visual_share_percent": "60-70",
+      "composition": "asymmetric",
+      "whitespace": "high"
+    },
+    "photos": {
+      "default": "large, natural, no filters",
+      "frames": false,
+      "shadows": false,
+      "purple_tint_only_for": [
+        "cover",
+        "closing slide",
+        "map",
+        "management company slide",
+        "section divider"
+      ]
+    },
+    "plates": {
+      "shape": "rectangle",
+      "shadows": false,
+      "gradients": false,
+      "primary": "#4A4492",
+      "secondary": "#44BABC"
+    },
+    "icons": {
+      "style": "thin outline",
+      "primary_color": "#44BABC",
+      "emoji_allowed": false
+    },
+    "prohibited": [
+      "mixing with GK SAR visual system",
+      "GK SAR corporate blue as replacement",
+      "GK SAR red line graphics",
+      "gradients",
+      "drop shadows",
+      "3D cards",
+      "glassmorphism",
+      "gold accents",
+      "random extra colors"
+    ]
+  }
+}
