@@ -1,0 +1,11 @@
+{
+  "project": "ЖК Современник",
+  "source": "Фирменные цвета из предоставленного пользователем брендбука/изображения",
+  "colors": {
+    "purple_primary": "#4A4492",
+    "purple_light": "#9D97CA",
+    "turquoise": "#44BABC",
+    "blue": "#49C1F0",
+    "white": "#FFFFFF"
+  }
+}
